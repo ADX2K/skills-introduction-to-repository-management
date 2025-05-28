@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @ADX2K
+/src/backend/database.py      @ADX2K
+/src/backend/routers/auth.py  @ADX2K
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @ADX2K
